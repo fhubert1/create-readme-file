@@ -1,5 +1,3 @@
-
-    
     # Generate README File
 
     ## Description

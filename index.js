@@ -4,8 +4,7 @@ const prompt = inquirer.createPromptModule();
 const fileName = 'README.md';
 
 const generateReadME = ({title, description, installation, usage, contributor, testing, license, username, email}) => {
-    return `
-    
+    return `    
     # ${title}
 
     ## Description
@@ -43,7 +42,6 @@ const generateReadME = ({title, description, installation, usage, contributor, t
     ## Questions
     [Contact Me](mailto:${email})
     [Git](https://github.com/${username})
-
     `
 }
 
