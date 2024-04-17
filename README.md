@@ -1,39 +1,37 @@
-    # Generate README File
+# Generate README File
 
-    ## Description
+## Description
 
-    generate a professional looking readme file using inquirer and node.js
+generate a professional looking readme file using inquirer and node.js
 
-    ## Table of Contents
-       - [Installation](#installation)
-       - [Usage](#usage)
-       - [Credits](#credits)
-       - [License](#license)
-       - [Contributing](#contributing)
-       - [Tests](#tests)
-       - [Questions](#questions)
+## Table of Contents
+   - [Installation](#installation)
+   - [Usage](#usage)
+   - [Credits](#credits)
+   - [License](#license)
+   - [Contributing](#contributing)
+   - [Tests](#tests)
+   - [Questions](#questions)
 
 
-    ## Installation
-    no installation instructions
+## Installation
+no installation instructions
 
-    ## Usage
-    no usage
+## Usage
+no usage
 
-    ## Credits
+## Credits
     
 
-    ## License
-    ISC License
+## License
+ISC License
 
-    ## Contributing
-    no contributors
+## Contributing
+no contributors
 
-    ## Tests
-    no testing
+## Tests
+no testing
 
-    ## Questions
-    [Contact Me](mailto:f.hubert.712@gmail.com)
-    [Git](https://github.com/fhubert1)
-
-    
+## Questions
+[Contact Me](mailto:f.hubert.712@gmail.com)
+[Git](https://github.com/fhubert1)
