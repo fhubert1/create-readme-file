@@ -16,32 +16,23 @@ Use node.js and inquirer to generate a professional looking README file
 
 
 ## Installation
-Run node index.js from terminal window and answer the prompts
+no installation instructions
 
 ## Usage
-video submission will show how to use the application
+no usage
 
 ## Credits
     
 
 ## License
-
-This project is licensed under the ISC License - see the [LICENSE](LICENSE) file for details.
-
- 
-
-
-[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC) 
-
+ISC License
 
 ## Contributing
-submit suggestions to email address listed below
+no contributors
 
 ## Tests
-No test cases created for now
+no testing
 
 ## Questions
-[Contact Me](mailto:f.hubert.712@gmail.com) 
-
-
+[Contact Me](mailto:f.hubert.712@gmail.com)
 [Git](https://github.com/fhubert1)
