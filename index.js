@@ -7,27 +7,27 @@ const licenseOptions = [
     {
         name: 'MIT License',
         badge: '[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)',
-        info: `## License\n\nThis project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.\n`
+        info: `## License\n\nThis project is licensed under the MIT License. Please refer to the <https://www.mit.edu/~amini/LICENSE.md> for further details\n`
       },
       {
         name: 'GNU General Public License (GPL)',
         badge: '[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)',
-        info: `## License\n\nThis project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.\n`
+        info: `## License\n\nThis project is licensed under the GNU General Public License v3.0. Please refert to the <https://www.gnu.org/licenses/gpl-3.0.en.html> for further details\n`
       },
       {
         name: `Apache License 2.0`,
         badge: `[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)`,
-        info: `## License\n\nThis project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.\n`
+        info: `## License\n\nThis project is licensed under the Apache License 2.0. Please refer to the <https://www.apache.org/licenses/LICENSE-2.0> for further details\n`
       },
       {
         name: `ISC License`,
         badge: `[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)`,
-        info: `## License\n\nThis project is licensed under the ISC License - see the [LICENSE](LICENSE) file for details.\n`
+        info: `## License\n\nThis project is licensed under the ISC License. Please refer to <https://www.isc.org/licenses/> for further details.\n`
       },
       {
         name: `Mozilla Public License (MPL) 2.0`,
         badge: `[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)`,
-        info: `## License\n\nThis project is licensed under the Mozilla Public License (MPL) 2.0 - see the [LICENSE](LICENSE) file for details.\n`
+        info: `## License\n\nThis project is licensed under the Mozilla Public License (MPL) 2.0. Please refert to <https://www.mozilla.org/en-US/MPL/> for further details.\n`
       },
       {
         name: `Unlicense`,
