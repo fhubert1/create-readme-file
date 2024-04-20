@@ -28,7 +28,7 @@ Open terminal and run node index.js.  Follow prompts and README file will be gen
 
 ## License
 
-This project is licensed under the ISC License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the ISC License. Please refer to <https://www.isc.org/licenses/> for further details.
  
 
 
