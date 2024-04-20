@@ -1,9 +1,11 @@
     
-# Generate README Project
+# Professional README Generator
+
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## Description
 
-Use node.js and inquirer to generate a professional looking README file
+Quickly generate a professional README for a new project using node.js and inquirer
 
 ## Table of Contents
    - [Installation](#installation)
@@ -16,29 +18,26 @@ Use node.js and inquirer to generate a professional looking README file
 
 
 ## Installation
-Run node index.js from terminal window and answer the prompts
+Open terminal and run node index.js.  Follow prompts and README file will be generated in the same directory
 
 ## Usage
-video submission will show hot to use the application
+![Screenshot](assets/images/screenshot.png)\n\n\n![Demo](assets/images/demo.webm)
 
 ## Credits
     
 
 ## License
 
-This project is licensed under the ISC License - see the [LICENSE](LICENSE) file for details.
-
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
  
 
 
-[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC) 
-
 
 ## Contributing
-No test cases created for now
+Report bugs and suggestion using the email address listed below.
 
 ## Tests
-No test cased created for now
+No test cases
 
 ## Questions
 [Contact Me](mailto:f.hubert.712@gmail.com) 
