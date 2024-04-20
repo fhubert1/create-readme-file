@@ -1,7 +1,7 @@
     
 # Professional README Generator
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
 ## Description
 
@@ -21,14 +21,14 @@ Quickly generate a professional README for a new project using node.js and inqui
 Open terminal and run node index.js.  Follow prompts and README file will be generated in the same directory
 
 ## Usage
-![Screenshot](assets/images/screenshot.png)\n\n\n![Demo](assets/images/demo.webm)
+![Screenshot](assets/images/screenshot.png) ![Demo](assets/images/demo.gif)
 
 ## Credits
     
 
 ## License
 
-This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the ISC License - see the [LICENSE](LICENSE) file for details.
  
 
 
