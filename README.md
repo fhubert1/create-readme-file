@@ -7,6 +7,8 @@
 
 Quickly generate a professional README for a new project using node.js and inquirer
 
+[Repo](https://github.com/fhubert1/create-readme-file)
+
 ## Table of Contents
    - [Installation](#installation)
    - [Usage](#usage)

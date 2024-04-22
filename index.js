@@ -3,6 +3,7 @@ const inquirer = require('inquirer');
 const prompt = inquirer.createPromptModule();
 const fileName = 'README.md';
 
+// license options
 const licenseOptions = [
     {
         name: 'MIT License',
@@ -37,8 +38,8 @@ const licenseOptions = [
 
 ]
 
-
-const generateReadME = ({title, description, installation, usage, contributor, testing, license, username, email}) => {
+// generate readme constructor
+const generateReadME = ({title, description, installation, usage, contributor, testing, license, username, email, repo}) => {
     const selectedLicense = licenseOptions.find(option => option.name === license);
     //console.log(selectedLicense);
     return `    
@@ -48,6 +49,8 @@ ${selectedLicense.badge}
 ## Description
 
 ${description}
+
+[Repo](https://github.com/fhubert1/${repo})
 
 ## Table of Contents
    - [Installation](#installation)
@@ -155,15 +158,20 @@ const questions = [
                 return 'Invalid email address! Please enter a valid email address.'
             }
         }
-      },       
+      },
+      {
+        type: 'input',
+        message: 'Name of repo?',
+        name: 'repo'
+      }
 
 ];
 
+// inquirer prompt questions
+// and also call fs writefile to create readme file
 prompt(questions) 
   .then((responses) =>{
-    // const selectedLicense = licenseOptions.find(option => option.name === responses.license);
-    // console.log(selectedLicense);
-    //console.log(responses);
+
     fs.writeFile(fileName, generateReadME(responses), (err) => {
         if (err) {
             throw err;
